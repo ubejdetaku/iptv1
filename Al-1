@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,TVSH
+http://hd.007iptv.com:2095/eda/eda123456/216
+#EXTINF:-1,TVSH HD
+http://hd.007iptv.com:2095/eda/eda123456/217
+#EXTINF:-1,Top Channel
+http://hd.007iptv.com:2095/eda/eda123456/235
+#EXTINF:-1,Top Channel HD
+http://hd.007iptv.com:2095/eda/eda123456/236
+#EXTINF:-1,Klan
+http://hd.007iptv.com:2095/eda/eda123456/293
+#EXTINF:-1,Klan HD
+http://hd.007iptv.com:2095/eda/eda123456/294
