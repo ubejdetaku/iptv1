@@ -1,13 +1,535 @@
 #EXTM3U
-#EXTINF:-1,TVSH
-http://hd.007iptv.com:2095/eda/eda123456/216
-#EXTINF:-1,TVSH HD
-http://hd.007iptv.com:2095/eda/eda123456/217
-#EXTINF:-1,Top Channel
-http://hd.007iptv.com:2095/eda/eda123456/235
-#EXTINF:-1,Top Channel HD
-http://hd.007iptv.com:2095/eda/eda123456/236
-#EXTINF:-1,Klan
-http://hd.007iptv.com:2095/eda/eda123456/293
-#EXTINF:-1,Klan HD
-http://hd.007iptv.com:2095/eda/eda123456/294
+#EXTINF:-1 tvg-id="" tvg-name="##### CH - SWITZERLAND #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SWITZERLAND/SWITZERLAND.png" group-title="EU | SWITZERLAND",##### CH - SWITZERLAND #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/63875
+#EXTINF:-1 tvg-id="" tvg-name="CH -CORONA VIRUS INFO" tvg-logo="http://212.8.253.112/logo/corona.png" group-title="EU | SWITZERLAND",CH -CORONA VIRUS INFO
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/83144
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH - RSI LA 1 HD" tvg-logo="" group-title="EU | SWITZERLAND",CH - RSI LA 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/63873
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH - RSI LA 2 HD" tvg-logo="" group-title="EU | SWITZERLAND",CH - RSI LA 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/63874
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - ALBANIA #####" tvg-logo="http://212.8.253.112/logo/MAGFLAGS/ALBANIA.png" group-title="EU | ALBANIA",##### ALB - ALBANIA #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54011
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - GENERAL #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - GENERAL #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54010
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - CORONA VIRUS INFO" tvg-logo="" group-title="EU | ALBANIA",ALB - CORONA VIRUS INFO
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/83425
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTK 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/rtk.png" group-title="EU | ALBANIA",ALB - RTK 1
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54009
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTK 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/rtk.png" group-title="EU | ALBANIA",ALB - RTK 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54008
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTK 2" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/rtk.png" group-title="EU | ALBANIA",ALB - RTK 2
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54007
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTK 3" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/rtk.png" group-title="EU | ALBANIA",ALB - RTK 3
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54006
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTK 4" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/rtk.png" group-title="EU | ALBANIA",ALB - RTK 4
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54005
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB -  ALSAT M" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ALSATMHD.png" group-title="EU | ALBANIA",ALB -  ALSAT M
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53951
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="ALB - TOP CHANNEL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TOPCHANNEL.png" group-title="EU | ALBANIA",ALB - TOP CHANNEL HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53956
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TOP CHANNEL 4K" tvg-logo="http://212.8.253.112/logo/ALBANIA/TOPCHANNEL.png" group-title="EU | ALBANIA",ALB - TOP CHANNEL 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53954
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - VIZION PLUS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/vizion%20plus.png" group-title="EU | ALBANIA",ALB - VIZION PLUS HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53996
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB -  VIZION PLUS 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/vizion%20plus.png" group-title="EU | ALBANIA",ALB -  VIZION PLUS 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53953
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KTV KOHAVISION" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KTVKOHAVISION.png" group-title="EU | ALBANIA",ALB - KTV KOHAVISION
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54001
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KLAN MACEDONIA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KLANMACEDONIA.png" group-title="EU | ALBANIA",ALB - KLAN MACEDONIA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53968
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KLAN KOSOVA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/klan_kosova.png" group-title="EU | ALBANIA",ALB - KLAN KOSOVA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54000
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KLAN TV HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KLAN.png" group-title="EU | ALBANIA",ALB - KLAN TV HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53995
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KLAN 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KLAN.png" group-title="EU | ALBANIA",ALB - KLAN 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53952
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KLAN PLUS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KLAN%20PLUS.png" group-title="EU | ALBANIA",ALB - KLAN PLUS HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53994
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KLAN PLUS 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KLAN%20PLUS.png" group-title="EU | ALBANIA",ALB - KLAN PLUS 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53967
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV21" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54003
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV21 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/54002
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV21 MIX" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 MIX
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53962
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV21 NEWSBIZ HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 NEWSBIZ HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53961
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV21 PLUS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 PLUS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53960
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV21 MAQEDONIA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 MAQEDONIA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53964
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV2 GOSTIVAR" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TV2.png" group-title="EU | ALBANIA",ALB - TV2 GOSTIVAR
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53971
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV TETOVA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVTETOVAHD.png" group-title="EU | ALBANIA",ALB - TV TETOVA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53970
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB -  TV KOHA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KOHATVMK.png" group-title="EU | ALBANIA",ALB -  TV KOHA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53969
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV ILIRIDA" tvg-logo="" group-title="EU | ALBANIA",ALB - RTV ILIRIDA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/73592
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV POLLOGU" tvg-logo="" group-title="EU | ALBANIA",ALB - TV POLLOGU
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/73883
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV USKANA" tvg-logo="" group-title="EU | ALBANIA",ALB - TV USKANA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/73884
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TDC" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tdc.png" group-title="EU | ALBANIA",ALB - TDC
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53966
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TDC 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tdc.png" group-title="EU | ALBANIA",ALB - TDC 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53965
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH 1" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH 1
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53993
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53992
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53991
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH 24 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH 24 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53990
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH 3" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH 3
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53989
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH GJIROKASTRA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH GJIROKASTRA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53984
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH KUVEND" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH KUVEND
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53988
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH MUZIKE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH MUZIKE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53987
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH PLUS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH PLUS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53986
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH SHQIP" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH SHQIP
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53985
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV CHANNEL SHOKDER" tvg-logo="" group-title="EU | ALBANIA",ALB - TV CHANNEL SHOKDER
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53983
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - MRT 2" tvg-logo="" group-title="EU | ALBANIA",ALB - MRT 2
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53963
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - STAR PLUS SHKODËR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/STARPLUS.png" group-title="EU | ALBANIA",ALB - STAR PLUS SHKODËR HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53957
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - CHANNEL ONE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/CHANNELONE.png" group-title="EU | ALBANIA",ALB - CHANNEL ONE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53982
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIRST TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FIRST%20CHANNEL.png" group-title="EU | ALBANIA",ALB - FIRST TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53981
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV MITROVICA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv%20mitrovica.png" group-title="EU | ALBANIA",ALB - TV MITROVICA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53980
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SYRI VISION" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/SYRIVISION.png" group-title="EU | ALBANIA",ALB - SYRI VISION
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53979
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV LLAPI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TV%20LLAPI.png" group-title="EU | ALBANIA",ALB - TV LLAPI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53978
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - BESA TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVBESA.png" group-title="EU | ALBANIA",ALB - BESA TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53977
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV DUKAGJINI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/tv_dukagjini.png" group-title="EU | ALBANIA",ALB - TV DUKAGJINI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53997
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRIBUNA CHANNEL" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRIBUNACHANNEL.png" group-title="EU | ALBANIA",ALB - TRIBUNA CHANNEL
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53919
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PREZRINI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/prezrini%20tv.png" group-title="EU | ALBANIA",ALB - TV PREZRINI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53976
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RROKUM TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/prokum%20tv.png" group-title="EU | ALBANIA",ALB - RROKUM TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53975
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHENJA TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVSHENJA.png" group-title="EU | ALBANIA",ALB - SHENJA TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53974
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - T7" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/T7.png" group-title="EU | ALBANIA",ALB - T7
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53998
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV ERA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVERA.png" group-title="EU | ALBANIA",ALB - TV ERA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53973
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV GLOBI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVGLOBI.png" group-title="EU | ALBANIA",ALB - TV GLOBI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53972
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB -  EURO FILM" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/EUROFILM.png" group-title="EU | ALBANIA",ALB -  EURO FILM
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53955
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV KOPLIKU HD" tvg-logo="" group-title="EU | ALBANIA",ALB - TV KOPLIKU HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/86861
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FOLK+" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/folkplus.png" group-title="EU | ALBANIA",ALB - FOLK+
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95533
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ELRODI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ELRODI.png" group-title="EU | ALBANIA",ALB - ELRODI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95534
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - ISLAM #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - ISLAM #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53741
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTV PENDIMI" tvg-logo="" group-title="EU | ALBANIA",ALB - RTV PENDIMI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/73885
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ISLAM CHANNEL 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ISLAM%20CHANNEL.png" group-title="EU | ALBANIA",ALB - ISLAM CHANNEL 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53740
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ISLAM CHANNEL 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ISLAM%20CHANNEL.png" group-title="EU | ALBANIA",ALB - ISLAM CHANNEL 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53739
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ISLAM CHANNEL 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ISLAM%20CHANNEL.png" group-title="EU | ALBANIA",ALB - ISLAM CHANNEL 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53738
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ISLAM CHANNEL FEMIJE HD" tvg-logo="" group-title="EU | ALBANIA",ALB - ISLAM CHANNEL FEMIJE HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53737
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ISLAM CHANNEL QURAN HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ISLAM%20CHANNEL.png" group-title="EU | ALBANIA",ALB - ISLAM CHANNEL QURAN HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53736
+#EXTINF:-1 tvg-id="" tvg-name="ALB - ASHKALI TV EGJIPTJAN" tvg-logo="" group-title="EU | ALBANIA",ALB - ASHKALI TV EGJIPTJAN
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/102113
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - LAJME #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - LAJME #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53782
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ORA NEWS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ORANEWS.png" group-title="EU | ALBANIA",ALB - ORA NEWS HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53781
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ABC NEWS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ABC%20NEWS.png" group-title="EU | ALBANIA",ALB - ABC NEWS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53780
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FAX NEWS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FAXNEWS.png" group-title="EU | ALBANIA",ALB - FAX NEWS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53779
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TOP NEWS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TOP%20NEWS.png" group-title="EU | ALBANIA",ALB - TOP NEWS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53778
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - NEWS 24" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/NEWS24.png" group-title="EU | ALBANIA",ALB - NEWS 24
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53777
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - REPORT TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/REPORTTV.png" group-title="EU | ALBANIA",ALB - REPORT TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53776
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KANALI 7" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/kanal%207.png" group-title="EU | ALBANIA",ALB - KANALI 7
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53775
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART CHANNEL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART CHANNEL HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53774
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - A2 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/A2%20CNN.jpg.png" group-title="EU | ALBANIA",ALB - A2 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53772
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - DOKUMENTARE #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - DOKUMENTARE #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53808
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - EXPLORER SHKENCE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/EXPLORERShkence.png" group-title="EU | ALBANIA",ALB - EXPLORER SHKENCE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53807
+#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="ALB - EXPLORER NATYRA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/EXPLORERNATYRA.png" group-title="EU | ALBANIA",ALB - EXPLORER NATYRA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53806
+#EXTINF:-1 tvg-id="exphistori.al" tvg-name="ALB - EXPLORER HISTORI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/EXPLORERHISTORI.png" group-title="EU | ALBANIA",ALB - EXPLORER HISTORI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53805
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING HISTORY" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING HISTORY
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53804
+#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="ALB - TRING PLANET" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING PLANET
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53803
+#EXTINF:-1 tvg-id="tringworld.al" tvg-name="ALB - TRING WORLD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING WORLD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53802
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X HISTORI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X HISTORI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53785
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X NATYRA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X NATYRA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53784
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X SHKENCË HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X SHKENCË HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53783
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SKY SHKENCE" tvg-logo="" group-title="EU | ALBANIA",ALB - SKY SHKENCE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53801
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SKY PLANET" tvg-logo="" group-title="EU | ALBANIA",ALB - SKY PLANET
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53800
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DISCOVERY CHANNEL" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/DISCOVERY%20CHANNEL.png" group-title="EU | ALBANIA",ALB - DISCOVERY CHANNEL
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53799
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DISCOVERY SCIENCE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/DISCOVERY%20CHANNEL.png" group-title="EU | ALBANIA",ALB - DISCOVERY SCIENCE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53797
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DISCOVERY TURBO EXTRA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/DISCOVERY%20CHANNEL.png" group-title="EU | ALBANIA",ALB - DISCOVERY TURBO EXTRA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53796
+#EXTINF:-1 tvg-id="nationalgeographic.al" tvg-name="ALB - NATIONAL GEOGRAPHIC" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/NATIONALGRAPHIC.png" group-title="EU | ALBANIA",ALB - NATIONAL GEOGRAPHIC
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53795
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - NATIONAL GEOGRAPHIC WILD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/NATIONAL%20GEOGRAPHIC%20WILD.png" group-title="EU | ALBANIA",ALB - NATIONAL GEOGRAPHIC WILD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53794
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - HISTORY CHANNEL" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/HISTORY.png" group-title="EU | ALBANIA",ALB - HISTORY CHANNEL
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53793
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - 24 KITCHEN" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/24%20KITCHEN.png" group-title="EU | ALBANIA",ALB - 24 KITCHEN
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53792
+#EXTINF:-1 tvg-id="living.al" tvg-name="ALB - LIVING HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/LIVING%20HD.png" group-title="EU | ALBANIA",ALB - LIVING HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53791
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FOX CHANNEL" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/fox.png" group-title="EU | ALBANIA",ALB - FOX CHANNEL
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53788
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="ALB - FOX LIFE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FOXLIFE.png" group-title="EU | ALBANIA",ALB - FOX LIFE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53787
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TLC" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TLC.png" group-title="EU | ALBANIA",ALB - TLC
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53789
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB -DIGITALB FILM #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB -DIGITALB FILM #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53916
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - EURO FILM 1 HD" tvg-logo="http://212.8.253.112/logo/ALBANIA/EUROFILM.png" group-title="EU | ALBANIA",ALB - EURO FILM 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53915
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - EURO FILM 2 HD" tvg-logo="http://212.8.253.112/logo/ALBANIA/EUROFILM.png" group-title="EU | ALBANIA",ALB - EURO FILM 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53914
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - EURO FILM 3 HD" tvg-logo="http://212.8.253.112/logo/ALBANIA/EUROFILM.png" group-title="EU | ALBANIA",ALB - EURO FILM 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53913
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - EURO FILM 4 HD" tvg-logo="http://212.8.253.112/logo/ALBANIA/EUROFILM.png" group-title="EU | ALBANIA",ALB - EURO FILM 4 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53911
+#EXTINF:-1 tvg-id="filmnje.al" tvg-name="ALB - FILM NJE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM NJE HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53895
+#EXTINF:-1 tvg-id="filmdy.al" tvg-name="ALB - FILM DY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM DY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53899
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="ALB - FILM AKSION" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM AKSION
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53902
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILM HITS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM HITS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53897
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILM AUTOR" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM AUTOR
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53901
+#EXTINF:-1 tvg-id="filmdrame.al" tvg-name="ALB - FILM DRAMË" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM DRAMË
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53900
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILM FAMILY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM FAMILY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53898
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILM KOMEDI" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM KOMEDI
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53896
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILM STINET" tvg-logo="http://212.8.253.112/logo/ALBANIA/FILMSTINET.png" group-title="EU | ALBANIA",ALB - FILM STINET
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53912
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILM T HD" tvg-logo="" group-title="EU | ALBANIA",ALB - FILM T HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53773
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="ALB - FILM THRILLER" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - FILM THRILLER
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53894
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING ACTION" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING ACTION
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53887
+#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="ALB - TRING COMEDY" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING COMEDY
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53918
+#EXTINF:-1 tvg-id="tringfantazi.al" tvg-name="ALB - TRING FANTASY" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING FANTASY
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53886
+#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="ALB - TRING SHQIP" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING SHQIP
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53880
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING SMILE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING SMILE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53885
+#EXTINF:-1 tvg-id="tringlife.al" tvg-name="ALB - TRING LIFE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING LIFE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53884
+#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="ALB -  TRING SUPER" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB -  TRING SUPER
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53881
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING JOLLY" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING JOLLY
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53883
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING 3" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING 3
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53882
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING INTERNATIONAL" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING INTERNATIONAL
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53879
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILMBOX PREMIUM" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FOX%20BOX.png" group-title="EU | ALBANIA",ALB - FILMBOX PREMIUM
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53877
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILMBOX ARTHOUSE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FOX%20BOX.png" group-title="EU | ALBANIA",ALB - FILMBOX ARTHOUSE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53876
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILMBOX EXTRA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FOX%20BOX.png" group-title="EU | ALBANIA",ALB - FILMBOX EXTRA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53875
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FILMBOX PLUS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/FOX%20BOX.png" group-title="EU | ALBANIA",ALB - FILMBOX PLUS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53874
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART KINO 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART KINO 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53873
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART KINO 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART KINO 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53872
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART KINO 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART KINO 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53871
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART EPISODE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART EPISODE HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53870
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART PRIME HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART PRIME HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53869
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X PREMIUM 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X PREMIUM 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53853
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X PREMIUM 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X PREMIUM 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53852
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X PREMIUM 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X PREMIUM 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53851
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X PREMIUM 4 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X PREMIUM 4 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53850
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X ACTION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X ACTION HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53849
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X COMEDY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X COMEDY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53848
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X FAMILY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X FAMILY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53847
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X DRAMA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X DRAMA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53846
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X THRILLER HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X THRILLER HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53845
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X FILMA 24 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X FILMA 24 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53844
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X DARK HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X DARK HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53842
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X ROMANCE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X ROMANCE HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53841
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X SCI-FI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X SCI-FI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53840
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X WESTERN HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X WESTERN HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53839
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI ACTION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI ACTION HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53893
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI COMEDY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI COMEDY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53892
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI FANTASY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI FANTASY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53891
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI HORROR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI HORROR HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53890
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI THRILLER HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI THRILLER HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53889
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DIGI GOLD ACTION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - DIGI GOLD ACTION HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53906
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DIGI GOLD ATLANTIC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - DIGI GOLD ATLANTIC HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53905
+#EXTINF:-1 tvg-id="" tvg-name="ALB - DIGI GOLD CINEMA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - DIGI GOLD CINEMA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53904
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DIGI GOLD FAMILY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - DIGI GOLD FAMILY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53903
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DIGI GOLD 4 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/digitalb.png" group-title="EU | ALBANIA",ALB - DIGI GOLD 4 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53907
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIRST ACTION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/First-tv.png" group-title="EU | ALBANIA",ALB - FIRST ACTION HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95244
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIRST COMEDY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/First-tv.png" group-title="EU | ALBANIA",ALB - FIRST COMEDY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95245
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIRST DRAME HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/First-tv.png" group-title="EU | ALBANIA",ALB - FIRST DRAME HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95246
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIRST FAMILY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/First-tv.png" group-title="EU | ALBANIA",ALB - FIRST FAMILY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95247
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIRST THRILLER HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/First-tv.png" group-title="EU | ALBANIA",ALB - FIRST THRILLER HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/95248
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP CINEMA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP CINEMA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53864
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP AKSION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP AKSION HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53863
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP FAMILY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP FAMILY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53862
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP FILM HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP FILM HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53861
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP DRAMA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP DRAMA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53924
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP FANTASY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP FANTASY HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53860
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB -  SHQIP KOMEDI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB -  SHQIP KOMEDI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53859
+#EXTINF:-1 tvg-id="" tvg-name="ALB - SHQIP HORROR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP HORROR HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53858
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP HINDI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP HINDI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53857
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP WESTERN HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP WESTERN HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53856
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP SERIAL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP SERIAL HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53855
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="#####  ALB - MUSIC #####" tvg-logo="" group-title="EU | ALBANIA",#####  ALB - MUSIC #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53949
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - MY MUSIC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/my%20music%20hd.png" group-title="EU | ALBANIA",ALB - MY MUSIC HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53947
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV OPOJA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/opoja%20tv.png" group-title="EU | ALBANIA",ALB - TV OPOJA HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53946
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ZICO TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/zico%20tv.png" group-title="EU | ALBANIA",ALB - ZICO TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53945
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SYRI BLU MUSIC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/SYRI%20HD.png" group-title="EU | ALBANIA",ALB - SYRI BLU MUSIC HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53943
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TNT TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TNT%20TV.png" group-title="EU | ALBANIA",ALB - TNT TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53942
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - IN TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/INTValbania.png" group-title="EU | ALBANIA",ALB - IN TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53941
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - A-MOL TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/AMOL.png" group-title="EU | ALBANIA",ALB - A-MOL TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53940
+#EXTINF:-1 tvg-id="tematv.al" tvg-name="ALB - TEMA TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TEMA%20TV.png" group-title="EU | ALBANIA",ALB - TEMA TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53938
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53937
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TOP ESTRADA MUSIC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TOPESTRADAMUSICHD.png" group-title="EU | ALBANIA",ALB - TOP ESTRADA MUSIC HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53936
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV ZJARR" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ZJARR%20TV.png" group-title="EU | ALBANIA",ALB - TV ZJARR
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53934
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SKY MUSIC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/SKYMUSIC.png" group-title="EU | ALBANIA",ALB - SKY MUSIC HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53933
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP FOLK HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP FOLK HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53932
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP QIFTELI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP QIFTELI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53931
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X CIFTELI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X CIFTELI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53929
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI QIFTELI HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI QIFTELI HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53928
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X MUSIC HITS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X MUSIC HITS HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53927
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X POPULLORE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X POPULLORE HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53930
+#EXTINF:-1 tvg-id="rtv21popullore.al" tvg-name="ALB - RTV21 POPULLORE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 POPULLORE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53950
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP HUMOR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP HUMOR HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53926
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP QESHU HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP QESHU HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53923
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP STUPCAT HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP STUPCAT HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53922
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - X HUMOR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/x%20.png" group-title="EU | ALBANIA",ALB - X HUMOR HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53921
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV PLISI HUMOR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TVPLISIHD.png" group-title="EU | ALBANIA",ALB - TV PLISI HUMOR HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53920
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TV LIRIA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TV%20LIRIA.png" group-title="EU | ALBANIA",ALB - TV LIRIA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53917
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - Radio TV ILIRIDA " tvg-logo="" group-title="EU | ALBANIA",ALB - Radio TV ILIRIDA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/73886
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - FËMIJË #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - FËMIJË #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53838
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - BUBRRECI TV HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/BUBRRECITV.png" group-title="EU | ALBANIA",ALB - BUBRRECI TV HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53837
+#EXTINF:-1 tvg-id="bangbang.al" tvg-name="ALB -  BANG BANG" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/BANGBANG.png" group-title="EU | ALBANIA",ALB -  BANG BANG
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53836
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="ALB - CUFO" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/CUFO.png" group-title="EU | ALBANIA",ALB - CUFO
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53835
+#EXTINF:-1 tvg-id="tringtring.al" tvg-name="ALB - TRING TRING" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING TRING
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53834
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART PRINCE KIDS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART PRINCE KIDS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53833
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING KIDS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING KIDS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53832
+#EXTINF:-1 tvg-id="tiptv.al" tvg-name="ALB - TIP TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TIP%20TV.png" group-title="EU | ALBANIA",ALB - TIP TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53831
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB -  SOFIA" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/SOFIA.png" group-title="EU | ALBANIA",ALB -  SOFIA
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53830
+#EXTINF:-1 tvg-id="juniortv.al" tvg-name="ALB - JUNIOR" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/JUNIOR.png" group-title="EU | ALBANIA",ALB - JUNIOR
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53829
+#EXTINF:-1 tvg-id="rtv21junior.al" tvg-name="ALB - RTV21 JUNIOR" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTV_21.png" group-title="EU | ALBANIA",ALB - RTV21 JUNIOR
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53828
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - BOOMERANG" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/BOOMERANG.png" group-title="EU | ALBANIA",ALB - BOOMERANG
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53827
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - CARTOON NETWORK" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/CARTOON%20NETWORK.png" group-title="EU | ALBANIA",ALB - CARTOON NETWORK
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53826
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH FEMIJE" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH FEMIJE
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53825
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - BARBIE TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/BARBIE.png" group-title="EU | ALBANIA",ALB - BARBIE TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53824
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - BABY TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/BABY%20TV.png" group-title="EU | ALBANIA",ALB - BABY TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53823
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - BABY BOX TV HD" tvg-logo="" group-title="EU | ALBANIA",ALB - BABY BOX TV HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53822
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FEMIJE BOX" tvg-logo="" group-title="EU | ALBANIA",ALB - FEMIJE BOX
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53821
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KIDS BOX" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KIDSBOX.png" group-title="EU | ALBANIA",ALB - KIDS BOX
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53820
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - MR BEAN" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/MRBEAN.png" group-title="EU | ALBANIA",ALB - MR BEAN
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53817
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - PËRRALLA BOX" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/PERRELLABOX.png" group-title="EU | ALBANIA",ALB - PËRRALLA BOX
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53816
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - PJ MASKS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/PJ%20MASKES.png" group-title="EU | ALBANIA",ALB - PJ MASKS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53815
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - KËNGË PËR FËMIJË" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/KENGEPER%20FERMIJE.png" group-title="EU | ALBANIA",ALB - KËNGË PËR FËMIJË
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53814
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - DRAGON BALL Z HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/DRAGON%20BALL.png" group-title="EU | ALBANIA",ALB - DRAGON BALL Z HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53813
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - NINULLA PER GJUME" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/BALKANIKA%20TV.png" group-title="EU | ALBANIA",ALB - NINULLA PER GJUME
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53812
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SOLE TV" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/SOLETV.png" group-title="EU | ALBANIA",ALB - SOLE TV
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53811
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SHQIP TOM & JERRY" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/shqip.png" group-title="EU | ALBANIA",ALB - SHQIP TOM & JERRY
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53809
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - SUPER SPORTS #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - SUPER SPORTS #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53771
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SUPER SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53770
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="ALB - SUPER SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53769
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SUPER SPORT 2 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 2 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53768
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="ALB - SUPER SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53767
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SUPER SPORT 3 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 3 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53766
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="ALB - SUPER SPORT 4 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 4 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53765
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SUPER SPORT 4 4K" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 4 4K
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53764
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="ALB - SUPER SPORT 5 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 5 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53763
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="ALB - SUPER SPORT 6 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 6 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53762
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - SUPER SPORT 7 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/super_sport.png" group-title="EU | ALBANIA",ALB - SUPER SPORT 7 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53761
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - TRING SPORTS #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - TRING SPORTS #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53760
+#EXTINF:-1 tvg-id="tringsportnews.al" tvg-name="ALB - TRING SPORT NEWS" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING SPORT NEWS
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53759
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - TRING SPORT NEWS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING SPORT NEWS HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53758
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="ALB - TRING SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING SPORT 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53757
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="ALB - TRING SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/TRING.png" group-title="EU | ALBANIA",ALB - TRING SPORT 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53756
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - KUJTESA SPORT #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - KUJTESA SPORT #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53753
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - K SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/k%20sport.png" group-title="EU | ALBANIA",ALB - K SPORT 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53752
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - K SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/k%20sport.png" group-title="EU | ALBANIA",ALB - K SPORT 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53751
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - K SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/k%20sport.png" group-title="EU | ALBANIA",ALB - K SPORT 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53750
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - K SPORT 4 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/k%20sport.png" group-title="EU | ALBANIA",ALB - K SPORT 4 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53749
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - K SPORT 5 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/k%20sport.png" group-title="EU | ALBANIA",ALB - K SPORT 5 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53748
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="##### ALB - ART MOTION SPORT #####" tvg-logo="" group-title="EU | ALBANIA",##### ALB - ART MOTION SPORT #####
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53747
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART SPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART SPORT 1 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53746
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART SPORT 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART SPORT 2 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53745
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - ART SPORT 3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/ART.png" group-title="EU | ALBANIA",ALB - ART SPORT 3 HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53744
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - FIGHT BOX HD" tvg-logo="http://212.8.253.112/logo/MY%20HD/%20FIGHT%20BOX%20HD.png" group-title="EU | ALBANIA",ALB - FIGHT BOX HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53743
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="ALB - RTSH SPORT HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ALBANIA/RTSH.png" group-title="EU | ALBANIA",ALB - RTSH SPORT HD
+http://bestiptvline.com:80/test106/vCMVvo1mqOpyau7/53742
